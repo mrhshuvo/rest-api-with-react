@@ -1,0 +1,22 @@
+{
+  "dev": [
+    {
+      "id": "a2a7",
+      "name": "Mrh Shuvo",
+      "roll": "30001",
+      "phone": "01315860387",
+      "email": "devsmrhshuvo@gmail.com",
+      "location": "Nandigram",
+      "photo": "https://res.cloudinary.com/dahckkgrc/image/upload/v1731380771/roohubrp9exbkd03snz7.jpg"
+    },
+    {
+      "id": "fe02",
+      "name": "Miss Taslima",
+      "roll": "30004",
+      "phone": "01315860388",
+      "email": "taslima@gmail.com",
+      "location": "Natore",
+      "photo": "https://res.cloudinary.com/dahckkgrc/image/upload/v1731380882/vwapwcvntxgntljf2gjy.png"
+    }
+  ]
+}

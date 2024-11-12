@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+
+.student__area {
+  width: 100rem;
+  margin: 5rem auto 0px;
+}
+
+.student__area h1 {
+  font-style: italic;
+}
+
+.student__form input {
+  font-style: italic;
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn {
+  width: 5rem;
+  height: 2rem;
+  margin: 0.2rem;
+  background-color: gray;
+  border-radius: 3rem;
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(159, 157, 157);
+  border: none;
+}
+
+/* tabel area starts here  */
+
+.table__area {
+  border: 1px solid gray;
+  margin-left: 15rem;
+  width: 80rem;
+  margin-top: 5rem;
+  padding: 1rem;
+}
+
+/* .table__area thead th {
+  border: 1px 1px 1px 1px;
+  border-color: gray;
+  border-style: solid;
+} */
